@@ -1,5 +1,6 @@
 # D603-Task-2-Clustering-Techniques
 ### Overview
+This project focuses on patient segmentation using K-means clustering to uncover meaningful patterns that support targeted hospital interventions.
 
 ### K-means Clustering – Patient Segmentation
 -	Applied K-means clustering (Python, scikit-learn) to segment patients into 4 distinct groups based on demographics, medical conditions, and hospitalization details.
