@@ -1,5 +1,13 @@
 # D603-Task-2-Clustering-Techniques
+### Overview
 
+### K-means Clustering – Patient Segmentation
+-	Applied K-means clustering (Python, scikit-learn) to segment patients into 4 distinct groups based on demographics, medical conditions, and hospitalization details.
+-	Conducted Elbow Method analysis to determine optimal clusters; visualized clusters with scatterplots and interpreted group characteristics to inform targeted hospital strategies.
+-	Recommended data-driven interventions (e.g., discharge planning, chronic care) to reduce readmissions and optimize hospital costs.
+
+
+### Files
 1. README.md - A file describing other files in this repository.
 
 2. D603_Task2_Final.ipynb - A Jupyter Notebook file that contains the code for clustering techniques.
