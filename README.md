@@ -1,4 +1,4 @@
-# D603-Task-2-Clustering-Techniques
+# Clustering Techniques
 ### Overview
 This project focuses on patient segmentation using K-means clustering to uncover meaningful patterns that support targeted hospital interventions.
 
