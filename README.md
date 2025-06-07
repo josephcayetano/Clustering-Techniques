@@ -1,11 +1,11 @@
 # Clustering Techniques
 ### Overview
-This project focuses on patient segmentation using K-means clustering to uncover meaningful patterns that support targeted hospital interventions.
+This project used K-means clustering to group patients into segments and find patterns that can help hospitals plan better care.
 
 ### K-means Clustering – Patient Segmentation
--	Applied K-means clustering (Python, scikit-learn) to segment patients into 4 distinct groups based on demographics, medical conditions, and hospitalization details.
--	Conducted Elbow Method analysis to determine optimal clusters; visualized clusters with scatterplots and interpreted group characteristics to inform targeted hospital strategies.
--	Recommended data-driven interventions (e.g., discharge planning, chronic care) to reduce readmissions and optimize hospital costs.
+-	Used K-means clustering in Python to group patients into 4 clusters based on demographics, health conditions, and hospital stay details
+-	Used the Elbow Method to choose the best number of clusters and visualized results with scatterplots to understand each group
+-	Suggested care strategies like better discharge planning and chronic care support to help reduce readmissions and lower hospital costs
 
 
 ### Files
